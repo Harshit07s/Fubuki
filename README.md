@@ -6,13 +6,13 @@
 
 ##
 
-Made Under - [@Anime_X_Hunters](https://t.me/Anime_X_Hunters).
+Made Under - [@laurenbale](https://t.me/laurenbale).
 
 
 
 ### Features
 - Fully customisable.
-- Two Force Sub Channels added By - [SAHIL](https://t.me/Okabe_xRintarou)
+- Two Force Sub Channels added By - [ninja](https://t.me/km_portal)
 - Customisable welcome & Forcesub messages.
 - Customisable Pics
 - Shortener feature added
